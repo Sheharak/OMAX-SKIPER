@@ -6,39 +6,39 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://github.com/ASITHA-MD/BOT">
+<a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src=https://bit.ly/4fWNvzn"  width="700px">
 </a>
 <hr>
  <p align="center">
 
-  <a href="https://github.com/ASITHA-MD/BOT">
+  <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FASITHA-MD%2FBOT&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/ASITHA-MD/BOT">
+  <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src="https://img.shields.io/github/forks/ASITHA-MD/BOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ASITHA-MD/BOT">
+  <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src="https://img.shields.io/github/stars/ASITHA-MD/BOT?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ASITHA-MD/BOT">
+  <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src="https://img.shields.io/github/repo-size/ASITHA-MD/BOT?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/ASITHA-MD/BOT">
+  <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src="https://img.shields.io/github/license/ASITHA-MD/BOT?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/ASITHA-MD/BOT">
+  <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src="https://img.shields.io/github/languages/top/ASITHA-MD/BOT?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/ASITHA-MD/BOT">
+  <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
     <img src="https://img.shields.io/static/v1?label=Author&message=Asitha%20Chathuranga&color=purple&style=plastic">
 
   </a>
@@ -63,7 +63,7 @@
 <hr>
 <b>CONTACT OWNER</b>
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94743381623)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94712438904)
 <hr>
 
 <a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
