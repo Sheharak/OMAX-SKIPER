@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/ASITHA-MD/BOT">
-    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
+    <img src=https://bit.ly/4fWNvzn"  width="700px">
 </a>
 <hr>
  <p align="center">
