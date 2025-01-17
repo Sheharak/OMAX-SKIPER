@@ -39,7 +39,7 @@
 
   </a>
   <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Asitha%20Chathuranga&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Omax%20Skiper&color=purple&style=plastic">
 
   </a>
   </p>
@@ -75,7 +75,7 @@
 </br>
  [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/BOT)
   
-[![nima](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+[![nima](https://img.shields.io/badge/omax-skiper_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
 [![nima](https://img.shields.io/badge/asitha_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
