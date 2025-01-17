@@ -17,25 +17,25 @@
   
   </a>
   <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
-    <img src="https://img.shields.io/github/forks/ASITHA-MD/BOT?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/OMAX-Skiper/BOT?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
-    <img src="https://img.shields.io/github/stars/ASITHA-MD/BOT?style=social">
+    <img src="https://img.shields.io/github/stars/OMAX-SKIPER/BOT?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
-    <img src="https://img.shields.io/github/repo-size/ASITHA-MD/BOT?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/OMAX-SKIPER/BOT?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
-    <img src="https://img.shields.io/github/license/ASITHA-MD/BOT?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/OMAX-SKIPER/BOT?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
-    <img src="https://img.shields.io/github/languages/top/ASITHA-MD/BOT?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/OMAX-SKIPER/BOT?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/Sheharak/OMAX-SKIPER.git">
@@ -48,12 +48,12 @@
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
-<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID OMAX' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 02</b>
 
-<a href='https://willing-gertrude-asitha-4de0249e.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://willing-gertrude-asitha-4de0249e.koyeb.app/' target="_blank"><img alt='Get Session ID OMAX' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
