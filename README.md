@@ -66,7 +66,7 @@
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94712438904)
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
+<a href="https://whatsapp.com/channel/0029VayLmv79xVJlrugTKD2l"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
 
 <hr>
 
@@ -83,4 +83,4 @@
 
 <hr><br>
 
-<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z/499"><img src="https://img.shields.io/badge/Deploy%20Code-blue"  width="350"></a>
+<a href="https://whatsapp.com/channel/0029VayLmv79xVJlrugTKD2l"><img src="https://img.shields.io/badge/Deploy%20Code-blue"  width="350"></a>
